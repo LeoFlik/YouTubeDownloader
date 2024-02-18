@@ -9,7 +9,6 @@ imageio-ffmpeg==0.4.9
 moviepy==1.0.3
 numpy==1.26.4
 packaging==23.2
-pillow==10.2.0
 proglog==0.1.10
 pytube==15.0.0
 requests==2.31.0
